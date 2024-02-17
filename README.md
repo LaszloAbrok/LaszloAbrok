@@ -2,7 +2,7 @@
 
 **`Software engineer`**
 
-Hi!:wave:
+Hi! :wave:
 
 I am Laszlo Abrok, a first-year MSc student in Computer Engineering at [Budapest University of Technology and Economics][bme] with a primary specialisation in data science, and artificial intelligence and a secondary specialisation in critical systems. During my BSc, I had a specialization in Systems engineering.  I am also the Avionics Lead of [BME Suborbitals][suborbitals]. My professional interests include software engineering, artifical intelligence, data science, embedded system design and model-driven software development of safety-critical cyber-physical systems.
 
